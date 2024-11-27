@@ -5,8 +5,5 @@ accountCity = "helsinki";
 
 accountCity = "Kerava";
 
-console.log(accountId);
+ // console.log(accountId);
 console.table([accountId, accountEmail, accountPassword, accountCity]);
-
-for 
-
